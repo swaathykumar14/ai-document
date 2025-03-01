@@ -8,7 +8,7 @@
 }
 
 body {
-  background: var(--surface-gradient);
+  background-image: url(https://pbs.twimg.com/media/E2z6WrjWUAEconS.png);
   min-height: 100vh;
 }
 
